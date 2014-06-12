@@ -19,7 +19,21 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib
     
-   
+    NSArray *aa = [NSArray arrayWithObjects:@"hello!",@"testw",@"me!" , nil];
+//    [aa release];
+//
+//    
+//    array = [[NSArray alloc] init];
+//    NSLog(@"array count:%d",[array retainCount]);
+//    [array release];
+//    NSLog(@"array count2:%d",[array retainCount]);
+//    [self AccessArr];
+//    array = [NSArray arrayWithObjects:@"hello!",@"test",@"me!" , nil];
+//    NSLog(@"array count3:%d",[array retainCount]);
+//    self.ar = array;
+//    NSLog(@"initialed count:%d",[ar retainCount]);
+//    [ar release];
+//    [array release];
 }
 -(void)AccessArr
 {
