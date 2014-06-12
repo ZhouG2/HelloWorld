@@ -136,8 +136,8 @@
 				D8F87BE31918BEBD007D368E /* helloworld-Info.plist */,
 				D8F87BE41918BEBD007D368E /* InfoPlist.strings */,
 				D8F87BE71918BEBD007D368E /* main.m */,
-				D8F87BE91918BEBD007D368E /* helloworld-Prefix.pch */,
 				D8F87BED1918BEBD007D368E /* Default.png */,
+				D8F87BE91918BEBD007D368E /* helloworld-Prefix.pch */,
 				D8F87BEF1918BEBD007D368E /* Default@2x.png */,
 				D8F87BF11918BEBD007D368E /* Default-568h@2x.png */,
 			);
