@@ -21,8 +21,7 @@
     
     NSArray *aa = [NSArray arrayWithObjects:@"hello!",@"testw",@"me!" , nil];
 //    [aa release];
-//
-//    
+  
 //    array = [[NSArray alloc] init];
 //    NSLog(@"array count:%d",[array retainCount]);
 //    [array release];
